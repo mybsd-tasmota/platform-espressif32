@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tasmota/platform-espressif32.git"
+    "url": "https://github.com/mybsd-tasmota/platform-espressif32.git"
   },
-  "version": "2024.06.00",
+  "version": "gladys-2.0.18",
   "frameworks": {
     "arduino": {
       "script": "builder/frameworks/arduino.py"
